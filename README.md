@@ -53,9 +53,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BYTEGUARDIAN14/BYTEGUARDIAN14/output/snake.svg" alt="Snake animation" />
-
-###
