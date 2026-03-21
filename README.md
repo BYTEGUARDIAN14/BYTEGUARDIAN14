@@ -324,7 +324,7 @@
 
 <!-- GitHub Trophies -->
 <a href="https://github.com/BYTEGUARDIAN14">
-  <img src="https://github-profile-trophy.vercel.app/?username=BYTEGUARDIAN14&theme=darkhub&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=7" width="95%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BYTEGUARDIAN14&theme=onedark&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=7" width="95%" alt="GitHub Trophies" />
 </a>
 
 </div>
