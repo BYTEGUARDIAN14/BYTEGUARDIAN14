@@ -1,375 +1,452 @@
 <div align="center">
 
-<!-- ═══════════════════════════ ANIMATED HEADER ═══════════════════════════ -->
+<!-- ══════════════════════════ HEADER ══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1016,50:212531,100:e4ded7&height=230&section=header&text=MD.ADHNAN&fontSize=65&fontColor=e4ded7&fontAlignY=33&desc=DevSecOps%20Engineer%20%E2%80%A2%20BYTEAEGIS&descSize=20&descAlignY=55&descColor=e4ded7&animation=fadeIn" width="100%" alt="MD.ADHNAN — DevSecOps Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,30:0d1117,70:161b22,100:1c2128&height=260&section=header&text=MD.%20ADHNAN&fontSize=72&fontFamily=Orbitron&fontColor=e4ded7&fontAlignY=35&desc=DevSecOps%20Engineer%20%E2%80%A2%20Security%20Architect%20%E2%80%A2%20BYTEAEGIS&descSize=16&descAlignY=56&descColor=8b949e&animation=fadeIn" width="100%" />
 
-<!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════════ -->
+<!-- ══════════════════════════ TYPING SVG ══════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E4DED7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Security+%7C+Automation+%7C+Scalable+Engineering;Building+Secure+%26+Performant+Products;Code+to+Cloud+%E2%80%94+Security+Built+In" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&pause=1200&color=e4ded7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=80&lines=Security+built+in+from+Code+to+Cloud+%E2%80%94+not+bolted+on+after.;Pipelines+that+sign+artifacts.+Clusters+that+enforce+policy.;Building+for+SaaS%2C+Web3+%26+AI+teams+that+can't+afford+breaches." />
 </a>
 
 <br/>
 
-<!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
+<!-- ══════════════════════════ SOCIAL BADGES ══════════════════════════ -->
 
-<a href="https://byteaegis.in"><img src="https://img.shields.io/badge/Portfolio-byteaegis.in-0E1016?style=for-the-badge&labelColor=212531&color=e4ded7" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/byteguardiann"><img src="https://img.shields.io/badge/LinkedIn-byteguardiann-0E1016?style=for-the-badge&logo=linkedin&labelColor=212531&color=e4ded7" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/byteaegis.in"><img src="https://img.shields.io/badge/Instagram-byteaegis.in-0E1016?style=for-the-badge&logo=instagram&labelColor=212531&color=e4ded7" alt="Instagram" /></a>
-<a href="https://contra.com/adhnaan_adhnaan_w0wkc50t"><img src="https://img.shields.io/badge/Contra-Hire_Me-0E1016?style=for-the-badge&logo=contra&labelColor=212531&color=e4ded7" alt="Contra" /></a>
+[![Portfolio](https://img.shields.io/badge/%E2%9E%9C%20byteaegis.in-Portfolio-e4ded7?style=for-the-badge&labelColor=0d1117&color=e4ded7)](https://byteaegis.in)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-byteguardiann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/byteguardiann)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-byteaegis.in-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/byteaegis.in)&nbsp;
+[![Hire Me](https://img.shields.io/badge/Contra-Hire%20Me-e4ded7?style=for-the-badge&logo=contra&logoColor=black&labelColor=0d1117)](https://contra.com/adhnaan_adhnaan_w0wkc50t)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=BYTEGUARDIAN14&style=for-the-badge&color=212531&label=PROFILE+VIEWS" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=BYTEGUARDIAN14&style=for-the-badge&color=161b22&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
-<!-- ═══════════════════════════ DIVIDER ═══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+---
 
-## <img src="https://api.iconify.design/mdi/account-circle-outline.svg?color=%23ffffff" width="22" height="22" alt="" /> &nbsp;About Me
+<!-- ══════════════════════════ ABOUT ══════════════════════════ -->
+
+## <img src="https://api.iconify.design/mdi/account-circle-outline.svg?color=%23e4ded7" width="22" height="22" /> &nbsp;〔 01 〕About Me
 
 <table>
-  <tr>
-    <td width="55%">
+<tr>
+<td width="56%" valign="top">
 
 <br/>
 
-<img src="https://api.iconify.design/mdi/chevron-right.svg?color=%23ffffff" width="14" height="14" alt="" /> I'm **MD.ADHNAN (Adhnaan)**, a **DevSecOps Engineer** building under the brand **BYTEAEGIS**.
-
-<img src="https://api.iconify.design/mdi/chevron-right.svg?color=%23ffffff" width="14" height="14" alt="" /> I build **secure and scalable** products across the stack — high-converting pages and full-stack apps for **SaaS, Web3, and AI** teams with **security built in from code to cloud**.
-
-<img src="https://api.iconify.design/mdi/chevron-right.svg?color=%23ffffff" width="14" height="14" alt="" /> **Security by design**: code reviews, protected branches, dependency scanning, minimal non-root containers, least-privilege clusters, secret management, encryption, and audit trails.
-
-<img src="https://api.iconify.design/mdi/chevron-right.svg?color=%23ffffff" width="14" height="14" alt="" /> I believe in **automation that proves outcomes** — pipelines that sign artifacts, gate releases on critical issues, and link builds to production.
-
-<img src="https://api.iconify.design/mdi/chevron-right.svg?color=%23ffffff" width="14" height="14" alt="" /> I care about **UX, performance, and reliability** — clean interfaces, stable APIs, observability — and enjoy **mentoring** on secure coding and threat modeling.
-
-<img src="https://api.iconify.design/mdi/chevron-right.svg?color=%23ffffff" width="14" height="14" alt="" /> Off work: I explore **Tamil and Hindi music**. Open to **roles and collaborations** where product speed and security grow together.
+```yaml
+identity:
+  name     : MD. Adhnan (Adhnaan)
+  alias    : BYTEGUARDIAN
+  brand    : BYTEAEGIS
+  role     : DevSecOps Engineer & Security Architect
+  location : India
+```
 
 <br/>
 
-   </td>
-   <td width="45%" align="center">
+<img src="https://api.iconify.design/mdi/chevron-right-circle-outline.svg?color=%23e4ded7" width="14" height="14" /> &nbsp;Build **secure, scalable products** end-to-end — from high-converting landing pages to hardened cloud-native infrastructure for **SaaS, Web3, and AI** teams.
+
+<img src="https://api.iconify.design/mdi/chevron-right-circle-outline.svg?color=%23e4ded7" width="14" height="14" /> &nbsp;**Security by design** — code reviews, protected branches, dependency scanning, non-root containers, least-privilege clusters, secret management, encryption, and full audit trails.
+
+<img src="https://api.iconify.design/mdi/chevron-right-circle-outline.svg?color=%23e4ded7" width="14" height="14" /> &nbsp;**Automation with proof** — pipelines that sign artifacts, gate releases on critical findings, and trace every build to production.
+
+<img src="https://api.iconify.design/mdi/chevron-right-circle-outline.svg?color=%23e4ded7" width="14" height="14" /> &nbsp;**UX-aware engineering** — clean interfaces, stable APIs, full observability, and a sharp eye for performance.
+
+<img src="https://api.iconify.design/mdi/chevron-right-circle-outline.svg?color=%23e4ded7" width="14" height="14" /> &nbsp;Mentoring teams on **secure coding**, SBOM generation, and threat modeling.
+
+<img src="https://api.iconify.design/mdi/chevron-right-circle-outline.svg?color=%23e4ded7" width="14" height="14" /> &nbsp;Off-screen: Tamil and Hindi music. Open to **collaborations** where speed and security grow together.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BYTEGUARDIAN14&show_icons=true&theme=dark&bg_color=0E1016&title_color=e4ded7&text_color=e4ded7&icon_color=e4ded7&border_color=212531&hide_border=false&count_private=true" width="100%" alt="GitHub Stats" />
+</td>
+<td width="44%" align="center" valign="top">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=BYTEGUARDIAN14&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=e4ded7&text_color=8b949e&icon_color=e4ded7&border_color=30363d&hide_border=false&count_private=true&rank_icon=percentile" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BYTEGUARDIAN14&theme=dark&background=0E1016&ring=e4ded7&fire=e4ded7&currStreakLabel=e4ded7&sideLabels=e4ded7&sideNums=e4ded7&currStreakNum=e4ded7&dates=888888&border=212531" width="100%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BYTEGUARDIAN14&theme=github-dark-blue&background=0d1117&ring=e4ded7&fire=e4ded7&currStreakLabel=e4ded7&sideLabels=8b949e&sideNums=e4ded7&currStreakNum=e4ded7&dates=555d6b&border=30363d" width="100%" />
 
-<br/><br/>
+<br/>
 
-   </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<!-- ═══════════════════════════ DIVIDER ═══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+---
 
-## <img src="https://api.iconify.design/mdi/code-braces.svg?color=%23ffffff" width="22" height="22" alt="" /> &nbsp;Tech Stack & Ecosystem
+<!-- ══════════════════════════ STACK ══════════════════════════ -->
 
-<!-- Core -->
-<h4 align="center"><img src="https://api.iconify.design/mdi/laptop.svg?color=%23ffffff" width="18" height="18" alt="" /> Core</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+## <img src="https://api.iconify.design/mdi/code-braces-box.svg?color=%23e4ded7" width="22" height="22" /> &nbsp;〔 02 〕Tech Stack
+
+<br/>
+
+### <img src="https://api.iconify.design/mdi/code-tags.svg?color=%23e4ded7" width="16" height="16" /> &nbsp;Languages & Runtimes
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
-<!-- UI -->
-<h4 align="center"><img src="https://api.iconify.design/mdi/palette-outline.svg?color=%23ffffff" width="18" height="18" alt="" /> UI & Design</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
+### <img src="https://api.iconify.design/mdi/monitor-screenshot.svg?color=%23e4ded7" width="16" height="16" /> &nbsp;Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
 </p>
 
-<!-- DevSecOps -->
-<h4 align="center"><img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%23ffffff" width="18" height="18" alt="" /> DevSecOps</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo" />
-  <img src="https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white" alt="Tekton" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+### <img src="https://api.iconify.design/mdi/server-outline.svg?color=%23e4ded7" width="16" height="16" /> &nbsp;Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
-<!-- IaC & Policy -->
-<h4 align="center"><img src="https://api.iconify.design/mdi/server-outline.svg?color=%23ffffff" width="18" height="18" alt="" /> IaC & Policy</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Terragrunt-4D9AFF?style=for-the-badge&logoColor=white" alt="Terragrunt" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" alt="Packer" />
-  <img src="https://img.shields.io/badge/Checkov-6C47FF?style=for-the-badge&logoColor=white" alt="Checkov" />
-  <img src="https://img.shields.io/badge/tfsec-1A1A1A?style=for-the-badge&logoColor=white" alt="tfsec" />
-  <img src="https://img.shields.io/badge/Sentinel-DA291C?style=for-the-badge&logoColor=white" alt="Sentinel" />
+### <img src="https://api.iconify.design/mdi/pipe.svg?color=%23e4ded7" width="16" height="16" /> &nbsp;DevSecOps & CI/CD
+
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Tekton-FD495C?style=flat-square&logo=tekton&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black" />
 </p>
 
-<!-- Practices -->
-<h4 align="center"><img src="https://api.iconify.design/mdi/clipboard-check-outline.svg?color=%23ffffff" width="18" height="18" alt="" /> Practices</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black" alt="pre-commit" />
-  <img src="https://img.shields.io/badge/Conventional_Commits-FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white" alt="Conventional Commits" />
-  <img src="https://img.shields.io/badge/Code_Owners-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code Owners" />
-  <img src="https://img.shields.io/badge/Branch_Protection-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Branch Protection" />
+### <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%23e4ded7" width="16" height="16" /> &nbsp;Infrastructure & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white" />
+</p>
+
+### <img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%23e4ded7" width="16" height="16" /> &nbsp;Security Tooling
+
+<p>
+<img src="https://img.shields.io/badge/Checkov-6C47FF?style=flat-square" />
+<img src="https://img.shields.io/badge/tfsec-1A1A1A?style=flat-square" />
+<img src="https://img.shields.io/badge/Sentinel-DA291C?style=flat-square" />
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-00979D?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════ DIVIDER ═══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+---
 
-## <img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%23ffffff" width="22" height="22" alt="" /> &nbsp;Services
+<!-- ══════════════════════════ SERVICES ══════════════════════════ -->
+
+## <img src="https://api.iconify.design/mdi/briefcase-variant-outline.svg?color=%23e4ded7" width="22" height="22" /> &nbsp;〔 03 〕Services
+
+<br/>
 
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="160">
-      <br/>
-      <img src="https://api.iconify.design/mdi/web.svg?color=%23ffffff" width="36" height="36" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Web_Development-e4ded7?style=for-the-badge&labelColor=0E1016" alt="Web Dev" />
-      <br/>
-      <sub>Starting at <b>₹5,000</b></sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="160">
-      <br/>
-      <img src="https://api.iconify.design/mdi/pencil-ruler.svg?color=%23ffffff" width="36" height="36" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/UI/UX_Design-e4ded7?style=for-the-badge&labelColor=0E1016" alt="UI/UX" />
-      <br/>
-      <sub>Starting at <b>₹5,000</b></sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="160">
-      <br/>
-      <img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%23ffffff" width="36" height="36" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/DevSecOps-e4ded7?style=for-the-badge&labelColor=0E1016" alt="DevSecOps" />
-      <br/>
-      <sub>Starting at <b>₹5,000</b></sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <br/>
-      <img src="https://api.iconify.design/mdi/security.svg?color=%23ffffff" width="36" height="36" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Cyber_Solutions-e4ded7?style=for-the-badge&labelColor=0E1016" alt="Cyber" />
-      <br/>
-      <sub>Starting at <b>₹8,000</b></sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="160">
-      <br/>
-      <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%23ffffff" width="36" height="36" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AI_&_Automation-e4ded7?style=for-the-badge&labelColor=0E1016" alt="AI" />
-      <br/>
-      <sub>Starting at <b>₹10,000</b></sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="160">
-      <br/>
-      <img src="https://api.iconify.design/mdi/cloud-lock-outline.svg?color=%23ffffff" width="36" height="36" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Cloud_Security-e4ded7?style=for-the-badge&labelColor=0E1016" alt="Cloud" />
-      <br/>
-      <sub>Starting at <b>₹10,000</b></sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
+<tr>
+<td align="center" width="170">
 <br/>
+<img src="https://api.iconify.design/mdi/web.svg?color=%23e4ded7" width="34" height="34" />
+<br/><br/>
 
-<!-- ═══════════════════════════ DIVIDER ═══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+**Web Development**
 
-## <img src="https://api.iconify.design/mdi/folder-star-outline.svg?color=%23ffffff" width="22" height="22" alt="" /> &nbsp;Featured Projects
+<sub>End-to-end full-stack apps<br/>SaaS, Web3, AI-native</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Starting%20at-₹%205%2C000-e4ded7?style=flat-square&labelColor=161b22" />
+<br/><br/>
+</td>
+<td align="center" width="170">
+<br/>
+<img src="https://api.iconify.design/mdi/pencil-ruler.svg?color=%23e4ded7" width="34" height="34" />
+<br/><br/>
 
-<div align="center">
+**UI / UX Design**
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <br/>
-      <img src="https://api.iconify.design/mdi/shield-check-outline.svg?color=%23ffffff" width="32" height="32" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Suraksha_Path-0E1016?style=for-the-badge&labelColor=212531&color=e4ded7" alt="Suraksha Path" />
-      <br/><br/>
-      <sub>Digital disaster-readiness platform: interactive learning, virtual drills, real-time alerts.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <br/><br/>
-    </td>
-    <td align="center" width="200">
-      <br/>
-      <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%23ffffff" width="32" height="32" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Byte_GuardX-0E1016?style=for-the-badge&labelColor=212531&color=e4ded7" alt="Byte GuardX" />
-      <br/><br/>
-      <sub>Next-gen AI security engine to detect and resolve vulnerabilities across codebases.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-      <br/><br/>
-    </td>
-    <td align="center" width="200">
-      <br/>
-      <img src="https://api.iconify.design/mdi/monitor-dashboard.svg?color=%23ffffff" width="32" height="32" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/BYTEAEGIS_v5-0E1016?style=for-the-badge&labelColor=212531&color=e4ded7" alt="Portfolio v5" />
-      <br/><br/>
-      <sub>Current portfolio — dark theme, Framer Motion + GSAP animations, Prisma backend.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <br/>
-      <img src="https://api.iconify.design/mdi/cube-outline.svg?color=%23ffffff" width="32" height="32" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Old_Portfolio-0E1016?style=for-the-badge&labelColor=212531&color=e4ded7" alt="Old Portfolio" />
-      <br/><br/>
-      <sub>Black/grey glassmorphism portfolio with minimal transparent style.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-      <br/><br/>
-    </td>
-    <td align="center" width="200">
-      <br/>
-      <img src="https://api.iconify.design/mdi/gamepad-variant-outline.svg?color=%23ffffff" width="32" height="32" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/LIT_GAME-0E1016?style=for-the-badge&labelColor=212531&color=e4ded7" alt="LIT GAME" />
-      <br/><br/>
-      <sub>Startup/small business site for services and online presence.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
-      <br/><br/>
-    </td>
-    <td align="center" width="200">
-      <br/>
-      <img src="https://api.iconify.design/mdi/account-box-outline.svg?color=%23ffffff" width="32" height="32" alt="" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/NIVI_Portfolio-0E1016?style=for-the-badge&labelColor=212531&color=e4ded7" alt="NIVI Portfolio" />
-      <br/><br/>
-      <sub>Streamlined portfolio for a professional; black with orange accents.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <br/><br/>
-    </td>
-  </tr>
+<sub>High-converting interfaces<br/>with advanced animations</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Starting%20at-₹%205%2C000-e4ded7?style=flat-square&labelColor=161b22" />
+<br/><br/>
+</td>
+<td align="center" width="170">
+<br/>
+<img src="https://api.iconify.design/mdi/shield-lock-outline.svg?color=%23e4ded7" width="34" height="34" />
+<br/><br/>
+
+**DevSecOps**
+
+<sub>Hardened pipelines,<br/>IaC scanning, policy-as-code</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Starting%20at-₹%205%2C000-e4ded7?style=flat-square&labelColor=161b22" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="170">
+<br/>
+<img src="https://api.iconify.design/mdi/security.svg?color=%23e4ded7" width="34" height="34" />
+<br/><br/>
+
+**Cyber Solutions**
+
+<sub>Pen-testing, VAPT,<br/>threat modeling</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Starting%20at-₹%208%2C000-e4ded7?style=flat-square&labelColor=161b22" />
+<br/><br/>
+</td>
+<td align="center" width="170">
+<br/>
+<img src="https://api.iconify.design/mdi/robot-outline.svg?color=%23e4ded7" width="34" height="34" />
+<br/><br/>
+
+**AI & Automation**
+
+<sub>LLM integrations,<br/>security agents, workflows</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Starting%20at-₹%2010%2C000-e4ded7?style=flat-square&labelColor=161b22" />
+<br/><br/>
+</td>
+<td align="center" width="170">
+<br/>
+<img src="https://api.iconify.design/mdi/cloud-lock-outline.svg?color=%23e4ded7" width="34" height="34" />
+<br/><br/>
+
+**Cloud Security**
+
+<sub>Least-privilege arch,<br/>CSPM, compliance audits</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Starting%20at-₹%2010%2C000-e4ded7?style=flat-square&labelColor=161b22" />
+<br/><br/>
+</td>
+</tr>
 </table>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ DIVIDER ═══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+---
 
-## <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%23ffffff" width="22" height="22" alt="" /> &nbsp;GitHub Analytics
+<!-- ══════════════════════════ PROJECTS ══════════════════════════ -->
+
+## <img src="https://api.iconify.design/mdi/folder-star-multiple-outline.svg?color=%23e4ded7" width="22" height="22" /> &nbsp;〔 04 〕Featured Projects
+
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/BYTEGUARDIAN14">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BYTEGUARDIAN14&layout=donut-vertical&theme=dark&bg_color=0E1016&title_color=e4ded7&text_color=e4ded7&border_color=212531&langs_count=8&hide_border=false" width="32%" alt="Top Languages" />
-</a>
+<table>
+<tr>
+
+<td align="center" width="220">
+<br/>
+<img src="https://api.iconify.design/mdi/robot-outline.svg?color=%23e4ded7" width="32" height="32" />
+<br/><br/>
+
+**BYTE GUARDX**
+
+<sub>Next-gen AI security engine — detects and resolves vulnerabilities across entire codebases with explainable AI fixes.</sub>
+
+<br/>
+
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+
+<br/>
+</td>
+
+<td align="center" width="220">
+<br/>
+<img src="https://api.iconify.design/mdi/monitor-dashboard.svg?color=%23e4ded7" width="32" height="32" />
+<br/><br/>
+
+**BYTEAEGIS v5**
+
+<sub>Personal portfolio — dark theme, Framer Motion + GSAP animations, Prisma + Next.js backend.</sub>
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+</td>
+
+<td align="center" width="220">
+<br/>
+<img src="https://api.iconify.design/mdi/shield-check-outline.svg?color=%23e4ded7" width="32" height="32" />
+<br/><br/>
+
+**SURAKSHA PATH**
+
+<sub>Digital disaster-readiness platform — interactive learning, virtual drills, real-time alert system.</sub>
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="220">
+<br/>
+<img src="https://api.iconify.design/mdi/gamepad-variant-outline.svg?color=%23e4ded7" width="32" height="32" />
+<br/><br/>
+
+**LIT GAME**
+
+<sub>Startup-ready site for services and online presence — minimal, fast, conversion-focused.</sub>
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+</td>
+
+<td align="center" width="220">
+<br/>
+<img src="https://api.iconify.design/mdi/cube-outline.svg?color=%23e4ded7" width="32" height="32" />
+<br/><br/>
+
+**OLD PORTFOLIO**
+
+<sub>Black/grey glassmorphism portfolio — minimal transparent style with Three.js depth layers.</sub>
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
+
+<br/>
+</td>
+
+<td align="center" width="220">
+<br/>
+<img src="https://api.iconify.design/mdi/account-box-outline.svg?color=%23e4ded7" width="32" height="32" />
+<br/><br/>
+
+**NIVI PORTFOLIO**
+
+<sub>Streamlined professional portfolio — black base with sharp orange accent system.</sub>
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════ ANALYTICS ══════════════════════════ -->
+
+## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23e4ded7" width="22" height="22" /> &nbsp;〔 05 〕GitHub Analytics
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BYTEGUARDIAN14&layout=donut-vertical&theme=github_dark&bg_color=0d1117&title_color=e4ded7&text_color=8b949e&border_color=30363d&langs_count=8&hide_border=false" width="32%" />
 &nbsp;&nbsp;
-<a href="https://github.com/BYTEGUARDIAN14">
-  <img src="https://github-readme-stats.vercel.app/api?username=BYTEGUARDIAN14&show_icons=true&theme=dark&bg_color=0E1016&title_color=e4ded7&text_color=e4ded7&icon_color=e4ded7&border_color=212531&hide_border=false&count_private=true&rank_icon=github" width="55%" alt="GitHub Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=BYTEGUARDIAN14&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=e4ded7&text_color=8b949e&icon_color=e4ded7&border_color=30363d&hide_border=false&count_private=true&rank_icon=percentile" width="55%" />
 
 <br/><br/>
 
-<!-- Contribution Graph -->
-<a href="https://github.com/BYTEGUARDIAN14">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BYTEGUARDIAN14&bg_color=0E1016&color=e4ded7&line=e4ded7&point=212531&area_color=212531&area=true&hide_border=false&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BYTEGUARDIAN14&bg_color=0d1117&color=e4ded7&line=e4ded7&point=30363d&area_color=161b22&area=true&hide_border=false&custom_title=Contribution%20Graph&radius=6" width="95%" />
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/BYTEGUARDIAN14">
-  <img src="https://github-profile-trophy.vercel.app/?username=BYTEGUARDIAN14&theme=onedark&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=7" width="95%" alt="GitHub Trophies" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=BYTEGUARDIAN14&theme=onestar&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=7" width="95%" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ DIVIDER ═══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+---
 
-## <img src="https://api.iconify.design/mdi/handshake-outline.svg?color=%23ffffff" width="22" height="22" alt="" /> &nbsp;Let's Connect
+<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
 
-<div align="center">
-
-<br/>
+## <img src="https://api.iconify.design/mdi/handshake-outline.svg?color=%23e4ded7" width="22" height="22" /> &nbsp;〔 06 〕Let's Connect
 
 <br/>
 
-<a href="https://byteaegis.in"><img src="https://img.shields.io/badge/Portfolio-byteaegis.in-0E1016?style=for-the-badge&labelColor=212531&color=e4ded7" alt="Portfolio" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/byteguardiann"><img src="https://img.shields.io/badge/LinkedIn-byteguardiann-0E1016?style=for-the-badge&logo=linkedin&labelColor=212531&color=e4ded7" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://www.instagram.com/byteaegis.in"><img src="https://img.shields.io/badge/Instagram-byteaegis.in-0E1016?style=for-the-badge&logo=instagram&labelColor=212531&color=e4ded7" alt="Instagram" /></a>
-&nbsp;
-<a href="https://contra.com/adhnaan_adhnaan_w0wkc50t"><img src="https://img.shields.io/badge/Contra-Hire_Me-0E1016?style=for-the-badge&logo=contra&labelColor=212531&color=e4ded7" alt="Contra" /></a>
-
-<br/><br/>
-
-</div>
-
-<!-- ═══════════════════════════ DIVIDER ═══════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
-
-<!-- ═══════════════════════════ SNAKE ANIMATION ═══════════════════════════ -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BYTEGUARDIAN14/BYTEGUARDIAN14/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1016,50:212531,100:e4ded7&height=120&section=footer" width="100%" alt="Footer" />
+> *"The best security is the kind that ships with the product — not the patch that follows the breach."*
 
-<sub><img src="https://api.iconify.design/mdi/star-outline.svg?color=%23ffffff" width="14" height="14" alt="" /> Star my repos if you find them useful!</sub>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/%E2%9E%9C%20byteaegis.in-Portfolio-e4ded7?style=for-the-badge&labelColor=0d1117&color=e4ded7)](https://byteaegis.in)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-byteguardiann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/byteguardiann)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-byteaegis.in-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/byteaegis.in)&nbsp;
+[![Hire Me](https://img.shields.io/badge/Contra-Hire%20Me-e4ded7?style=for-the-badge&logo=contra&logoColor=black&labelColor=0d1117)](https://contra.com/adhnaan_adhnaan_w0wkc50t)
 
 </div>
 
+<br/>
+
+---
+
+<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BYTEGUARDIAN14/BYTEGUARDIAN14/output/github-snake-dark.svg" width="100%" />
+</div>
+
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2128,50:161b22,100:0d1117&height=130&section=footer" width="100%" />
+
+<div align="center">
+  <img src="https://api.iconify.design/mdi/star-shooting-outline.svg?color=%238b949e" width="14" height="14" />&nbsp;
+  <sub>If a repo helped you, a star costs nothing and means everything.</sub>
+</div>
