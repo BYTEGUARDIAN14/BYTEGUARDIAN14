@@ -2,9 +2,13 @@
 
 <br/>
 
-<p style="font-size: 1.2em; line-height: 1.8em;">
-  I build things with security baked in from day one — not as an afterthought.<br/>
+<p style="font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 1.08em; line-height: 1.85em; color: #EAEAEA; max-width: 720px;">
+  I build things with security baked in from day one — not as an afterthought.
   Full-stack apps, hardened pipelines, and AI-powered tools for teams that move fast without breaking things.
+</p>
+
+<p style="font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 0.98em; line-height: 1.75em; color: #B9B9B9; max-width: 720px;">
+  Clean architecture, strong security, and polished UI are the standard in everything I create.
 </p>
 
 <br/>
@@ -40,5 +44,5 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=BYTEGUARDIAN14&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/BYTEGUARDIAN14?style=for-the-badge&color=0d1117&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://streak-stats.demolab.com?user=BYTEGUARDIAN14&theme=dark&hide_border=true&border_radius=6" alt="Contribution Streak" />
 </p>
