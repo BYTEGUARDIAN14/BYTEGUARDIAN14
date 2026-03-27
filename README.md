@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&duration=1200&pause=9999999&color=F7F7F7&vCenter=true&repeat=false&multiline=true&width=700&height=90&lines=DevSecOps+Engineer+building;secure+products+people+trust.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&duration=1200&pause=9999999&color=F7F7F7&vCenter=true&repeat=false&multiline=true&width=700&height=90&lines=DevSecOps+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 <p>
   <a href="https://byteaegis.in" target="_blank">
-    <img src="https://img.shields.io/badge/byteaegis.in-Explore%20My%20Work%20%E2%86%97-e4ded7?style=for-the-badge&labelColor=0d1117&color=e4ded7" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/byteaegis.in-Explore%20My%20Work-e4ded7?style=for-the-badge&labelColor=0d1117&color=e4ded7" alt="Portfolio" />
   </a>
 </p>
 
