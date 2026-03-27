@@ -1,48 +1,52 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=30&duration=1200&pause=9999999&color=F7F7F7&vCenter=true&repeat=false&width=680&height=36&lines=DevSecOps+Engineer+building+secure+products+people+trust.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&duration=1200&pause=9999999&color=FFFFFF&vCenter=true&repeat=false&width=700&height=40&lines=DevSecOps+Engineer+building+secure+systems.)](https://git.io/typing-svg)
 
 <br/>
 
-<p style="font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 1.08em; line-height: 1.85em; color: #EAEAEA; max-width: 720px;">
-  I build things with security baked in from day one — not as an afterthought.
-  Full-stack apps, hardened pipelines, and AI-powered tools for teams that move fast without breaking things.
+<p style="font-family: 'SF Pro Display', Inter, system-ui, sans-serif; font-size: 1.1em; line-height: 1.9em; max-width: 760px; color: #E6E6E6;">
+  Security isn’t something I add later — it’s built into everything from the start.<br/>
+  I design and develop full-stack systems, secure pipelines, and AI-powered tools that scale fast without compromising trust.
 </p>
 
-<p style="font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 0.98em; line-height: 1.75em; color: #B9B9B9; max-width: 720px;">
-  Clean architecture, strong security, and polished UI are the standard in everything I create.
+<p style="font-family: 'SF Pro Text', Inter, system-ui, sans-serif; font-size: 0.95em; line-height: 1.7em; max-width: 760px; color: #A8A8A8;">
+  Focused on clean architecture, offensive security thinking, and production-grade engineering.
 </p>
 
 <br/>
 
-**Find me on:**
+### Connect
 
 <p>
-  <a href="mailto:byteaegis@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:byteaegis@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/byteguardiann" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/byteguardiann">
+    <img src="https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/byteaegis.in" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/byteaegis.in">
+    <img src="https://img.shields.io/badge/-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
 
 <br/>
 
-**Portfolio:**
+### Portfolio
 
 <p>
-  <a href="https://byteaegis.in" target="_blank">
-    <img src="https://img.shields.io/badge/byteaegis.in-Explore%20My%20Work-0d1117?style=for-the-badge&labelColor=0d1117&color=e4ded7&logo=safari&logoColor=e4ded7" alt="Portfolio" />
+  <a href="https://byteaegis.in">
+    <img src="https://img.shields.io/badge/View%20Work-111111?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
+### Activity
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=BYTEGUARDIAN14&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=BYTEGUARDIAN14&theme=dark&hide_border=true&border_radius=6" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=BYTEGUARDIAN14&theme=black-ice&hide_border=true&border_radius=8" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BYTEGUARDIAN14&style=flat-square&color=111111" />
 </p>
