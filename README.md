@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&duration=1200&pause=9999999&color=F7F7F7&vCenter=true&repeat=false&multiline=true&width=1100&height=160&lines=DevSecOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=900&size=26&duration=1200&pause=9999999&color=F7F7F7&vCenter=true&repeat=false&multiline=true&width=1100&height=160&lines=DevSecOps+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
-<p style="font-size: 2.75em; line-height: 4;">
+<p style="font-size: 4.75em; line-height: 4;">
   I build things with security baked in from day one not as an afterthought.<br/>
   Full-stack apps, hardened pipelines, and AI-powered tools for teams that move fast without breaking things.
 </p>
