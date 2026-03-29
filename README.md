@@ -2,7 +2,7 @@
 
 <p style="font-size: 1.3em; line-height: 2;">
   I build things with security baked in from day one not as an afterthought.<br/>
-  Full-stack apps, hardened pipelines, and AI-powered tools for teams that move fast without breaking things.
+  Full stack apps, hardened pipelines, and AI powered tools for teams that move fast without breaking things.
 </p>
 
 <br/>
